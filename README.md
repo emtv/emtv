@@ -33,5 +33,5 @@ Actualmente colaboro en la organización de:
 
 ![LinkedIn](https://drive.google.com/uc?id=1Zp_ureUaGhsZo1lIUx6FuVUBid43FBiT) &nbsp; [LinkedIn](https://www.linkedin.com/in/edgardotupino/)
 
-![Web](https://drive.google.com/uc?id=1xAk7IsI4rjQQviqRBouWDchRnbMvk5Ld) &nbsp; [Mi sitio web](https://edgardo.tupino.dev)
+![Web](https://drive.google.com/uc?id=1xAk7IsI4rjQQviqRBouWDchRnbMvk5Ld) &nbsp; [Mi sitio web](https://edgardo.tupino.com)
 
