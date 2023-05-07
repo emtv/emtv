@@ -1,9 +1,8 @@
 # 👋 Hola, soy Edgardo Tupiño
 
-Soy desarrollador frontend, con interés en la tecnología desde que me regalaron mi primera computadora e iniciado oficialmente en la industria del Desarrollo Web desde el 2012.
-Como muchos y pocos, la mayoría de mis HardSkills las forme de manera autodidacta. (No obstante tengo formación formal en leyes).
+Soy un apasionado desarrollador frontend con experiencia en la industria del desarrollo web desde 2012. Mi amor por la tecnología comenzó cuando recibí mi primera computadora y desde entonces, he cultivado mis habilidades técnicas de manera autodidacta. También cuento con una formación formal en leyes.
 
-Actualmente me intereso por el desarrollo web, conforme a las practicas mas contemporáneas. Experimento muchísimo con WordPress y WooCommerce a nivel de código.
+Me especializo en el desarrollo web utilizando prácticas contemporáneas y he experimentado ampliamente con WordPress y WooCommerce a nivel de código.
 
 
 ## SuperPowers 💪
@@ -28,7 +27,7 @@ Actualmente colaboro en la organización de:
 🛒 [Meetup de WooComerce Lima](https://www.meetup.com/es-ES/Lima-WooCommerce-Meetup/) 
 
 
-## Estemos en contacto 📨
+## Conectemos 📨
 
 ![Twitter](https://drive.google.com/uc?id=1_SWvrsNrVjkNWMhZcPVHx-nqmhCfVXFV) &nbsp; [Twitter](https://twitter.com/emtv)
 
