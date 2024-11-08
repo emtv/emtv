@@ -5,7 +5,7 @@ Soy un apasionado desarrollador frontend con experiencia en la industria del des
 Me especializo en el desarrollo web utilizando prácticas contemporáneas y he experimentado ampliamente con WordPress y WooCommerce a nivel de código.
 
 
-## SuperPowers 💪
+## Skills  💪
 
 ![PHP](https://drive.google.com/uc?id=1LPqVOG2zmKX_N_sJFB2ljT6-Ts90Mmux) &nbsp; PHP
 
@@ -28,8 +28,6 @@ Actualmente colaboro en la organización de:
 
 
 ## Conectemos 📨
-
-![Twitter](https://drive.google.com/uc?id=1_SWvrsNrVjkNWMhZcPVHx-nqmhCfVXFV) &nbsp; [Twitter](https://twitter.com/emtv)
 
 ![LinkedIn](https://drive.google.com/uc?id=1Zp_ureUaGhsZo1lIUx6FuVUBid43FBiT) &nbsp; [LinkedIn](https://www.linkedin.com/in/edgardotupino/)
 
